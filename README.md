@@ -75,11 +75,6 @@ Optimize your resume for Applicant Tracking Systems (ATS). This feature analyzes
 - Navigate to the homepage where you can select from the various features like MCQ Generator, Ask to PDF, YouTube Notes Maker, Contest Calendar, and ATS Resume Analyzer.
 - Follow the instructions for each feature to upload your files, input job descriptions, or track coding contests.
 
-## Diagrams
-
-Below is a flowchart showing the structure of the project:
-
-![Flowchart](path/to/flowchart.png)
 
 ## Contributing
 
